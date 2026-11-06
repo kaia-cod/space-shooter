@@ -10,11 +10,15 @@ Un jeu de tir spatial classique construit en **HTML5 / CSS3 / JavaScript** — p
 2. Joue !
 
 ### Contrôles
-| Touche | Action |
+
+| Entrée | Action |
 |--------|--------|
-| ⬅️ / ➡️ ou `A` / `D` | Déplacer le vaisseau |
-| `Espace` | Tirer |
-| `P` | Pause |
+| **Souris** | Déplacer le vaisseau |
+| ⬅️ ➡️ ⬆️ ⬇️ ou `Z` `Q` `S` `D` (AZERTY) ou `W` `A` `S` `D` (QWERTY) | Déplacer le vaisseau |
+| **Clic gauche maintenu** ou `Espace` maintenu | Tirer |
+| `Espace` | Attaque spéciale (quand ⚡ READY) |
+
+Les deux dispositions de clavier sont prises en charge : sur un clavier QWERTY, `A` déplace à gauche et `W` vers le haut, comme annoncé ci-dessus.
 
 ## ✨ Fonctionnalités
 
